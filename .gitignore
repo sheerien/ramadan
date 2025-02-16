@@ -11,3 +11,6 @@ wheels/
 .env
 *.json
 /wecima/output/*json
+/series_mp4s
+*.log
+.qodo
