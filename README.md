@@ -46,6 +46,26 @@ py series_wecima.py
 python3 series_wecima.py
 ```
 
+## Create M3U File from JSON
+
+### How to Run the Script
+
+#### On Windows
+
+If you are using Windows, you can run the script using the following command in Command Prompt (CMD) or PowerShell:
+
+```bash
+py from_json_to_m3u.py
+```
+
+#### On Linux or macOS
+
+If you are using Linux or macOS, use the following command in the terminal:
+
+```bash
+python3 from_json_to_m3u.py
+```
+
 ## Notes
 - Make sure your virtual environment is activated before running the script.
 - Ensure that you have a stable internet connection while running the script.
