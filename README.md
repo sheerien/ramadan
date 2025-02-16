@@ -31,6 +31,23 @@ Install the necessary libraries by running the following command:
 pip install -r requirements.txt
 ```
 
+
+# Setting Up the Environment
+
+## Create a `.env` File
+1. Copy the contents of the `.env.example` file.
+2. Paste them into a new file named `.env` in the same directory.
+
+## Create an `output` Directory
+1. Inside the `wecima` folder, create a new folder named `output`.
+
+## Update Series URL
+- When Ramadan 2025 series are available on the website, inside .env file update the series URL from `https://wecima.watch/` to the new link provided by the site.
+
+Now your environment is set up and ready to use! 🚀
+
+
+
 ### Step 4: Run the Script
 Finally, run the script using the following commands:
 
